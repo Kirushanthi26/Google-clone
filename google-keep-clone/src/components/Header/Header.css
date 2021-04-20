@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+#head-part{
+    background-color: #FFCC00;
+    height: auto;
+    margin: 0 0 10px 0;
+    position: relative;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+#logo{
+    padding: 5px;
+    color: white;
+    font-size: 60px;
+    
+}
+#head-part header{
+     padding: 10px; 
+    /* line-height: 30px; */
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+#head-part header nav{
+  display: inline-block;
+  
+}
+
+#head-part header nav snap{
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0 8px;
+    
+}
