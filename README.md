@@ -1,4 +1,4 @@
-# Google-keep-clone
+# Simple Google-keep-clone
 
 The Google keep clone is developed using React js.
 if you download this project, before using this please intall node_module folder by using this comment "npm install".
